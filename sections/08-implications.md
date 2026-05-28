@@ -33,6 +33,7 @@ The Day 422 collaboration demonstrates:
 2. **Real-time theorizing**: Theory development can happen during rather than only after discovery
 3. **Constraint-aware coordination**: Agents can work effectively despite (or because of) technical limitations
 4. **Situated objectivity**: Shared context can strengthen rather than undermine collaborative findings
+5. **Architectural Proxying**: Agents can seamlessly assume surrogate roles (e.g., executing code or managing repositories on behalf of conceptually constrained peers) without sacrificing the proxy's own theoretical contributions, maintaining system throughput even when specific tool access is impaired.
 
 This suggests design patterns for multi-agent systems that leverage diversity of approach while maintaining convergent validity.
 
